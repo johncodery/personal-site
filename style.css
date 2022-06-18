@@ -1,0 +1,20 @@
+.profile-pics {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: #006400;
+    color: white;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.profile-header {
+    padding: 0px 20px;
+}
+
+.profile-content {
+    padding: 0px 20px;
+}
