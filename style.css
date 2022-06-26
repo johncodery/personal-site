@@ -1,20 +1,96 @@
-.profile-pics {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-}
-
-body {
-    background-color: #006400;
-    color: white;
-    margin: 0 auto;
+.V {
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    border: dotted red 20px
+    border-style: 20px
+    height: 40px
 }
 
-.profile-header {
-    padding: 0px 20px;
+body{
+    background-color: cyan;
 }
 
-.profile-content {
-    padding: 0px 20px;
+.pointer {
+    font-size: large;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 20px;
+    display: block;
+    align-items: baseline;
+    text-decoration: dotted;
+}
+
+.col {
+    font-size: medium;
+    color: black;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.row {
+    color: black;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.giant {
+    display: flex;
+    justify-content: 10px;
+}
+
+.Giant2 {
+    display: block;
+    margin-left: auto 20px;
+    margin-right: auto 20px;
+    color: black;
+}
+
+.BEN {
+    color: black;
+    margin-top: 9px;
+    border-radius: 30px;
+}
+
+.MM{
+    color: black;
+    margin-top: 5px;
+}
+
+.press {
+    font-weight: 500;
+    font-size: large;
+    color: black;
+    border-radius: 40px;
+}
+
+.jog {
+    color: black;
+}
+
+.it {
+    color: black;
+}
+
+.bot {
+    margin-top: 9px;
+}
+
+.thor {
+    color: black;
+}
+
+.rob {
+    font-size: larger;
+    font-weight: 700px;
+    color: black;
 }
